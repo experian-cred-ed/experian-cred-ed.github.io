@@ -1441,11 +1441,12 @@ h3 {
 
 /* line 83, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
 .outline_text.white {
-  -webkit-text-stroke: 1px #EFEFF1;
+  -webkit-text-stroke: 1px #040E27;
   -webkit-text-fill-color: transparent;
   top: 70px;
   line-height: 1;
   z-index: -1;
+
 }
 
 /* line 90, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
@@ -3043,6 +3044,7 @@ h3 {
   padding-top: 200px;
   padding-bottom: 170px;
   position: relative;
+
 }
 
 @media (max-width: 767px) {
